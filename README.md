@@ -1,1 +1,1 @@
-# Latent Inversion with Timestep-aware Sampling for Training-free Non-rigid Editing
+# Text Optimization with Latent Inversion for Non-rigid Editing
